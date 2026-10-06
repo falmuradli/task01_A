@@ -1,6 +1,7 @@
-package mygov.task01.repository;
+package mygov.task01.controller;
 
-import mygov.task01.Customer;
+import mygov.task01.data.Customer;
+import mygov.task01.repository.CustomerRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

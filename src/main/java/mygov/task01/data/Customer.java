@@ -1,4 +1,4 @@
-package mygov.task01;
+package mygov.task01.data;
 
 public record Customer(
         Long id,
